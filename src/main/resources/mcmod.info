@@ -1,0 +1,16 @@
+[
+{
+  "modid": "armoranimations",
+  "name": "Armor Animations",
+  "description": "Armor Animations lol",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["MisterFunny01"],
+  "credits": "github.com/SashaSemenishchev",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

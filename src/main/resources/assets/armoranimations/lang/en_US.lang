@@ -1,0 +1,4 @@
+keybind.ps.toggle=Toggle
+state.ps.enabled=PartySpammer was enabled
+state.ps.disabled=PartySpammer was disabled
+category.ps.partyspammer=PartySpammer
