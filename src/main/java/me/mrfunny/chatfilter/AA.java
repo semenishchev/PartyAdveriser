@@ -78,7 +78,7 @@ public class AA {
         MinecraftForge.EVENT_BUS.register(this);
     }
 
-    boolean debug = true;
+    boolean debug = false;
     @SubscribeEvent
     public void onTick(TickEvent.ClientTickEvent event) {
         boolean enabledNow = false;
